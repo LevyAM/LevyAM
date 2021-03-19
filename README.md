@@ -15,6 +15,8 @@ Find me here:
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/levyanselmo/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/levy.ansm)
 
-My Stats:
+My GitHub info:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAM&layout=compact&theme=tokyonight)](https://github.com/LevyAM/github-readme-stats)
 
 ![Levy GitHub stats](https://github-readme-stats.vercel.app/api?username=LevyAM&show_icons=true&theme=tokyonight)
