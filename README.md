@@ -3,7 +3,7 @@
 If you're here, it means you should follow me! :bowtie: 
 Dont hesitate do tell me your impressions and how I should build this better!
 
-- 🔭 I’m currently as a DevOps Engineer :nerd_face:
+- 🔭 I’m currently working as a DevOps Engineer :nerd_face:
 - 🌱 I’m currently learning Go and (trying)Prometheus.
 - 👯 I’m looking to collaborate on projects that makes people lives better.
 
